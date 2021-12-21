@@ -8,7 +8,6 @@ Enter download folder
 
 Clone the repository
 `git clone https://github.com/KaikSelhorst/Wallpaper.git`<br>
-<br>
 ## Windows 
 
 Go to the Repository on the website
