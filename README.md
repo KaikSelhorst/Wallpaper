@@ -7,7 +7,7 @@ Enter
 `cd ~/.Downloads/` or `in the directory where you want to place the repository`<br>
 
 Clone the repository
-`git clone https://github.com/KaikSelhorst/Wallpaper.git`<br>
+`sudo git clone https://github.com/KaikSelhorst/Wallpaper.git`<br>
 ## Windows 
 
 Go to the Repository on the website
