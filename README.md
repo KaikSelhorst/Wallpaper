@@ -3,7 +3,7 @@
 
 ## Linux
 
-Enter download folder
+Enter
 `cd ~/.Downloads/` or `in the directory where you want to place the repository`<br>
 
 Clone the repository
