@@ -1,4 +1,4 @@
-<p style="font-style:italic"> All commands work on systems that have git installed</p>
+*All commands work on systems that have git installed*
 
 ## Linux
 
@@ -10,8 +10,8 @@
 
 `git clone https://github.com/KaikSelhorst/Wallpaper.git`
 
-<h2> WARNING </h2>
+## WARNING
 
-<p style="font-style:italic;">To Receive New Wallpapers that are added over time, use git pull in the bash terminal within the downloaded repository</p>
+To Receive New Wallpapers that are added over time, use *git pull* in the bash terminal within the downloaded repository
 
 `git pull` in repository
