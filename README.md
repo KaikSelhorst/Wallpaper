@@ -1,18 +1,17 @@
-
-
+*All commands work on systems that have git installed*
 
 ## Linux
 
-Enter
-`cd ~/Downloads/` or `in the directory where you want to place the repository`<br>
+`git clone https://github.com/KaikSelhorst/Wallpaper.git`
 
-Clone the repository
-`sudo git clone https://github.com/KaikSelhorst/Wallpaper.git`<br>
-## Windows 
+## Windows
 
-Go to the Repository on the website
+<p style="font-style:italic;">Open Git Bash or some interpreter that works git</p>
 
-Go to `Code` click `Download Zip`
+`git clone https://github.com/KaikSelhorst/Wallpaper.git`
 
-##
-If you already have the repository downloaded and want its updates, Enter your Folder Wallpaper and `git pull` done 
+## WARNING
+
+To Receive New Wallpapers that are added over time, use *git pull* in the bash terminal within the downloaded repository
+
+`git pull` in repository
